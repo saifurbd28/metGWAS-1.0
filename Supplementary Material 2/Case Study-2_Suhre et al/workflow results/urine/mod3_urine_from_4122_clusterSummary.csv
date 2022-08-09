@@ -1,0 +1,8 @@
+"cluster","name","total_nodes","primary_hits","perc_of_c","perc_of_primary"
+1,"1_acute_sequence_associating_urinary_biomarkers.",3,2,66.6666666666667,25
+2,"2_smokers",1,1,100,12.5
+3,"3_smokers",1,1,100,12.5
+4,"4_toxicity_radiotherapy_prostate",1,1,100,12.5
+5,"5_toxicity_prostate_cancer",1,1,100,12.5
+6,"6",1,1,100,12.5
+7,"7",1,1,100,12.5
