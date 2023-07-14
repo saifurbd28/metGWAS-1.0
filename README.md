@@ -15,4 +15,12 @@ The metGWAS 1.0 tool was evaluated using standalone metabolomics datasets extrac
 ## Conclusion
 The metGWAS 1.0 platform provides insight into developing methods that bridge standalone metabolomics and disease and phenotype GWAS data. We show the potential to reproduce findings of paired metabolomics-GWAS data and provide novel associations of gene variation and metabolite expression.
 
-# N.B.: Supplementary material 1 has a missing RDATA file. It was too big to upload here. This " GWASnetwork_discoverableGenesOnly_2021_10_14.RData" file can be found in the link given in the "objects" folder of supplementary material 1. Without this file, you cannot complete downstream steps. 
+# Data structure and implementation
+It contains two supplementary materials. The supplementary material-1 consists of several R-scripts (i.e., metGWAS 1.0_19 April, qvalue and bioconductor install, and RSelenium Driver SetUp) with an object named folder and the user manual, split into two documents: a tutorial and a technical, for running the workflow. The provided two necessary R-scripts have been given here (i.e., qvalue and bioconductor install.R, and RSelenium Driver SetUp.R) for setting up the environment. metGWAS 1.0_19 April.R contains R-codes for running the workflow. The objects folder should contain the following files:
+
+1. discoverableGenes_akaAllGenesInHMDB_2021_10_14.RData (64KB)
+2. GWASnetwork_discoverableGenesOnly_2021_10_14.RData (64,516KB)
+
+Since file-2 is too large to upload here, we have provided a downloading link from where this RData file can be downloaded. The link information is given in the "GWASnetwork_discoverableGenesOnly_2021_10_14.docx". 
+
+
