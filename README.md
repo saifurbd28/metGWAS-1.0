@@ -21,6 +21,8 @@ It contains two supplementary materials. The supplementary material-1 consists o
 1. discoverableGenes_akaAllGenesInHMDB_2021_10_14.RData (64KB)
 2. GWASnetwork_discoverableGenesOnly_2021_10_14.RData (64,516KB)
 
-Since file-2 is too large to upload here, we have provided a downloading link from where this RData file can be downloaded. The link information is given in the "GWASnetwork_discoverableGenesOnly_2021_10_14.RData.docx". For the convenience of the users, we have also giving the link here 
+Since file-2 is too large to upload here, we have provided a downloading link from where this RData file can be downloaded. The link information is given in the "GWASnetwork_discoverableGenesOnly_2021_10_14.RData.docx". For the convenience of the users, we have also given the link here:
+
+https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdataverse.harvard.edu%2Fdataset.xhtml%3FpersistentId%3Ddoi%3A10.7910%2FDVN%2FB32FRP&data=05%7C01%7Ckhanmsr%40pitt.edu%7Cc22d973dc2464e13bdd608db83e60a5f%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C638248796268228403%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Kr13ycc24z5BVkTQzUc7BcFSw9z1adMV1jB8gU0FVPE%3D&reserved=0
 
 
